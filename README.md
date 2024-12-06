@@ -1,9 +1,29 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Cosmic Cube
+A visually stunning Next.js application that creates an interactive grid of cubes with animated light beams. This project demonstrates the power of React and CSS animations to create an engaging, game-like visual experience.
+### Features
+Full-screen grid of cubes that adapts to any screen size
+Colorful light beams that animate vertically through the grid
+Responsive design that works on desktop and mobile devices
+Built with Next.js and Tailwind CSS for modern web development practices
 
-## Getting Started
+## Demo
+<img src="gif/cosmic.gif" />
 
-First, run the development server:
+## Installation
 
+If you wish to build the project locally and see what my website looks like, you can run the following command to first get my project on your system:
+
+```bash
+git clone https://github.com/AnkitSingh0702/Cosmic_Cubes
+
+cd Cosmic_Cubes
+```
+Install the dependencies:
+
+```bash
+npm install
+```
+start the development server:
 ```bash
 npm run dev
 # or
